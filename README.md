@@ -23,6 +23,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### layout
 
-![layout](https://github.com/PabloSanttana/Movie-App-/blob/master/layoutMovie/layout.png)
+####  Interface
+![layout](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/image/1.png)
+
+####   Tabela de navegação
+![layout](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/image/2.png)
+
+####   Excluir, Para, Continuar
+
+![layout](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/image/3.png)
+
+####   Modificando prioridades, Alocar CPU
+![layout](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/image/4.png)
+
+####   Busca
+![layout](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/image/5.png)
+
+####   Informação do uso dos primeiros 6 nucleos
+![layout](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/image/6.png)
+
 
 
