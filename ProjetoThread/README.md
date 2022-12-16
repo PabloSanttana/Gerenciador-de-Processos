@@ -13,6 +13,8 @@ Projeto desenvolvido para disciplina de Sistemas de Tempo Real do curso Engenhar
   + Há uma interface que controla as velocidades dos trens.
   + Há uma interface para mostrar as posições dos trens a cada instante.
 
+  ![trilho](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/ProjetoThread/images/Captura%20de%20tela_20221216_201649.png)
+
 
 ### 🛠 Tecnologia Utilizadas no Desenvolvimento 
 
@@ -26,3 +28,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Há uma interface que controla as velocidades dos trens.
 - [x] Há uma interface para mostrar as posições dos trens a cada instante.
 - [x] Não pode haver deadlocks.
+
+## Interface Grafica
+
+ ![trilho](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/ProjetoThread/images/Captura%20de%20tela_20221216_201649.png)
+
