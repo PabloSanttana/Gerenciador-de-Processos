@@ -31,5 +31,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Interface Grafica
 
- ![trilho](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/ProjetoThread/images/Captura%20de%20tela_20221216_201649.png)
+ ![interface](https://github.com/PabloSanttana/Gerenciador-de-Processos/blob/main/ProjetoThread/images/Captura%20de%20tela_20221216_202130.png)
 
